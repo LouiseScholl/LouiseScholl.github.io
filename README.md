@@ -1,2 +1,2 @@
 # LouiseScholl.github.io
-![Marvel Head](screenshotmarvelhead1.png)
+![Marvel Head](LouiseScholl.github.io/img/screenshotmarvelhead1.png)
